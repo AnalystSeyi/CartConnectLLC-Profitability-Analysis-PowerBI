@@ -144,7 +144,7 @@ This insight established a clear profitability threshold: discounts greater than
 
 📊 **Dashboard Screenshot**  
 
-![Best Recovery Rate by Referral Reason](Screenshot/6-The-30%-Discount-Threshold.png)
+![Best Recovery Rate by Referral Reason](Screenshot/6-The-30percent-Discount-Threshold.png)
 
 ---
 
