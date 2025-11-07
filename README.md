@@ -25,7 +25,7 @@ The Power BI dashboard developed for this analysis was designed to monitor **Car
  -  Order Volume Trends  
 
 A **static image preview** of the dashboard is provided below for reference:  
-📸 ![**View Dashboard Image Preview**](Dashboard_Screenshots/Dashboard.jpg)  
+📸 ![**View Dashboard Image Preview**](Screenshot/Dashboard.jpg)  
 
 > _Note: The actual Power BI dashboard is dynamic — all visuals are interactive, enabling filtering, cross-highlighting, and time-based exploration._  
 
@@ -44,7 +44,7 @@ Key Insight: **CartConnect LLC** is profitable, but not as profitable as it coul
 
 📊 **Dashboard Screenshot**  
 
-![Treatment Commencement Completeness](Dashboard_Screenshots/1-Treatment-Commencement-Completeness.png)
+![Treatment Commencement Completeness](Screenshot/1-The-Big-Picture.png)
 
 ---
 
@@ -62,7 +62,7 @@ Interpretation: Demand is increasing, but profitability is not keeping pace.
 
 📊 **Dashboard Screenshot**  
 
-![Referral Volume Trend (January–June)](Dashboard_Screenshots/2-Referral-Volume-Trend-(January–June).png)
+![Referral Volume Trend (January–June)](Screenshot/2-Growth-in-Motion.png)
 
 ---
 
@@ -86,7 +86,7 @@ Rising costs consistently outpaced revenue growth, tightening profit margins and
 
 📊 **Dashboard Screenshot**  
 
-![Most Common Reason for Referral](Dashboard_Screenshots/3-Most-Common-Reason-for-Referral.png)
+![Most Common Reason for Referral](Screenshot/3-Sales,-Costs,-and-Profit.png)
 
 ---
 
@@ -104,7 +104,7 @@ The business was growing, but at a slowing pace. Something was constraining the 
 
 📊 **Dashboard Screenshot**  
 
-![ On-Time Treatment Rate (Within 18 Weeks)](Dashboard_Screenshots/4-On-Time-Treatment-Rate-(Within-18-Weeks).png)
+![ On-Time Treatment Rate (Within 18 Weeks)](Screenshot/4,-Year-on-Year-Profit-Growth.png)
 
 ---
 
@@ -125,7 +125,7 @@ Not once during the four-year period did discounted sales yield more than half t
 
 📊 **Dashboard Screenshot**  
 
-![18-Week Wait Time Trend](Dashboard_Screenshots/5.-18-Week-Wait-Time-Trend-(January–November).png)
+![18-Week Wait Time Trend](Screenshot/5.the-Real-Cost-of-Promotions.png)
 
 ---
 
@@ -144,7 +144,7 @@ This insight established a clear profitability threshold: discounts greater than
 
 📊 **Dashboard Screenshot**  
 
-![Best Recovery Rate by Referral Reason](Dashboard_Screenshots/6-Best-Recovery-Rate-by-Referral-Reason.png)
+![Best Recovery Rate by Referral Reason](Screenshot/5-The-30%-Discount-Threshold.png)
 
 ---
 
@@ -165,7 +165,7 @@ When viewed through a geographic lens, the story gains more depth.
 
 📊 **Dashboard Screenshot**  
 
-![Discharge Eligibility and Overall Recovery](Dashboard_Screenshots/7-Discharge-Eligibility-and-Overall-Recovery.png)
+![Discharge Eligibility and Overall Recovery](Screenshot/7.How-Regions-Respond-to-Discounts.png)
 
 ---
 
@@ -184,10 +184,6 @@ With refined pricing, smarter discount policies, and cost management, **CartConn
 **Recommendation:**  
 - Refocus business strategy on sustainable pricing, operational efficiency, and profit-centered metrics.  
 - Utilize Power BI to continuously track profit drivers and discount thresholds across time, region, and product category.  
-
-📊 **Dashboard Screenshot**  
-
-![Recovery Rate Trend (January–December)](Dashboard_Screenshots/8-Recovery-Rate-Trend-(January–December).png)
 
 ---
 
